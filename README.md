@@ -33,5 +33,9 @@ $username = "root";
 $password = "";
 $database = "db_surat";
 ```
+## Future Features
+1. Implementation of API for delivering email usage for an automatic notifiaction to the receiver if there is any changes
+2. Add an Graphic for Data of employeer for knowing the growth of the bussiness trip done
+3. Add any specic calculation of bussiness trip cost for building analytical algorythm
 ## Profile
 [Josua Antonius Naiborhu](https://id.linkedin.com/in/josuanaiborhu)
